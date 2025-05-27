@@ -58,3 +58,6 @@ open up localhost:
 - Flask
 - GPT
 - Pinecone
+
+
+859389355594.dkr.ecr.ap-south-1.amazonaws.com/medicalchatbot
